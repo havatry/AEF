@@ -1,4 +1,4 @@
-package vnreal.algorithms.myAEF.strategies.aef;
+package vnreal.algorithms.myAEF.save;
 
 import java.util.Comparator;
 import java.util.HashSet;
@@ -7,6 +7,7 @@ import java.util.PriorityQueue;
 import java.util.Set;
 
 import vnreal.algorithms.AbstractNodeMapping;
+import vnreal.algorithms.myAEF.strategies.aef.MappingRule;
 import vnreal.algorithms.myAEF.util.Utils;
 import vnreal.algorithms.utils.NodeLinkAssignation;
 import vnreal.network.Node;

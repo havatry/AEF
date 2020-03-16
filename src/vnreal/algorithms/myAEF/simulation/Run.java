@@ -43,7 +43,7 @@ public class Run {
 	
 	public static void main(String[] args) {
 		String base = "results/file/";
-		String filename = base + "substratework_20200213182601.xml";
+		String filename = base + "substratework_20200316143505.xml";
 		AlgorithmParameter parameter = initParam();
 		new Run().process(new AEFAlgorithm(parameter, false), filename); // baseline
         new Run().process(new AEFAlgorithm(parameter, true), filename); // advanced

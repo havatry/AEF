@@ -17,6 +17,9 @@ import vnreal.network.virtual.VirtualNode;
 
 import java.util.*;
 
+/**
+ * 这是增加了链路负载均衡策略相比于该包下的LinkMapping类
+ */
 public class LinkMapping2 extends AbstractLinkMapping{
     private final int SPL; // 容忍比最短路径所多出的距离
 

@@ -20,6 +20,7 @@ import vnreal.network.virtual.VirtualNode;
 
 /**
  * 完成节点映射
+ * 与save包中的NodeMapping2相比，这里的软距离计算是平均距离，而后者是直接欧式距离
  * 2019年11月23日 下午9:55:02
  */
 public class NodeMapping extends AbstractNodeMapping{
