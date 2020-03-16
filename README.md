@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## alevin2
 
 1. summaryResult的输出结果不显示, 在测试用例中已经可以调出结果 Finish
@@ -25,3 +26,7 @@
 
 ## 完善alevin仿真实验
 1. 进行实验的调整
+=======
+# AEF
+铏氭嫙缃戠粶鏄犲皠绠楁硶
+>>>>>>> f7e1e78e3ddd298f58ac202d1c4d6bdd93032b8a
